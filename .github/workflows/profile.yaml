@@ -1,4 +1,4 @@
-name: Update README cards
+name: Update profile svg cards
 
 on:
   schedule:
@@ -31,20 +31,13 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate pin card
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: pin
-          options: username=readme-tools&repo=github-readme-stats
-          path: profile/pin-readme-tools-github-readme-stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Generate trophy
-        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
-        with:
-          username: azurtian
-          output_path: profile/trophy.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+      # - name: Generate pin card
+      #   uses: readme-tools/github-readme-stats-action@v1
+      #   with:
+      #     card: pin
+      #     options: username=azurtian&repo=xxx
+      #     path: profile/pin-readme-xxx.svg
+      #     token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
         run: |
