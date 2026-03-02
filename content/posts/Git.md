@@ -10,7 +10,21 @@ tags: ['Git','命令']
 
 
 
-添加子模块:
+### 子模块
+
+添加子模块
 ```shell
 git submodule add child_module_url
+```
+
+主仓库和子模块仓库同时拉取
+
+```shell
+git clone --recurse-submodules repo-url
+```
+
+若主仓库已经拉取，单独拉取子模块
+
+```shell
+git submodule update --recursive
 ```
