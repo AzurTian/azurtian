@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">AzurTian's GitHub Stats, Rank: B</title>
-        <desc id="descId">Total Stars Earned: 39, Total Commits  (last year) : 203, Total PRs: 101, Total Issues: 6, Contributed to (last year): 3</desc>
+        <desc id="descId">Total Stars Earned: 39, Total Commits  (last year) : 312, Total PRs: 101, Total Issues: 6, Contributed to (last year): 3</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 135.56588532415765;
+        stroke-dashoffset: 128.84434422321266;
       }
     }
   
@@ -177,7 +177,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >203</text>
+      >312</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
