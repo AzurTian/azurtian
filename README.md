@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **java, python, automation tools**
 
-- 📫 How to reach me **azur.tian@qq.com**
+- 📫 How to reach me **azurtian@qq.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
