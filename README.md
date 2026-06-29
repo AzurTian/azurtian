@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **AI agent**
 
-- 👨‍💻 All of my projects are available at [AzurTian](https://github.com/AzurTian?tab=repositories)
+- 👨‍💻 All of my projects are available at [Repositories](https://github.com/AzurTian?tab=repositories)
 
-- 📝 I regularly write articles on [azurtian blog](https://azurtian.github.io/azurtian/)
+- 📝 I regularly write articles on [AzurTian Blog](https://azurtian.github.io)
 
 - 💬 Ask me about **java, python, automation tools**
 
